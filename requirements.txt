@@ -1,0 +1,11 @@
+ipython==8.17.2
+matplotlib==3.10.3
+numpy==2.2.5
+pandas==2.2.3
+Pillow==11.2.1
+Requests==2.32.3
+scikit_learn==1.6.1
+torch>=2.6.0
+torchvision>=0.21.0
+tqdm>=4.66.2
+kaggle>=1.7.4.5
